@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1637970255 source:c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"movies.h"
+	"time.h"
+
+1637970447 source:c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Parser.h"
+	"movies.h"
+	"controller.h"
+	"miBiblioteca.h"
+
+1637939320 c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\linkedlist.h
+
+1637939570 c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\parser.h
+
+1637970683 c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\controller.h
+
+1637939421 c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\mibiblioteca.h
+
+1637939197 source:c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637939401 source:c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1637969490 source:c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"movies.h"
+	"LinkedList.h"
+
+1637968632 c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\movies.h
+
+1637965132 source:c:\users\lenovo\onedrive\escritorio\parcial2labo\parcial2labo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Parser.h"
+	"movies.h"
+
